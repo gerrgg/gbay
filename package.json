@@ -1,0 +1,39 @@
+{
+  "name": "cyan-cyclops",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My Gatsby site",
+  "author": "Greg Bastianelli",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "dev": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "license": "0BSD",
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@pasdo501/gatsby-source-woocommerce": "^0.14.2",
+    "dotenv": "^8.2.0",
+    "fontsource-roboto": "^3.0.3",
+    "gatsby": "^2.26.1",
+    "gatsby-plugin-image": "^0.3.1",
+    "gatsby-plugin-react-helmet": "^3.6.0",
+    "gatsby-plugin-sass": "^2.7.0",
+    "gatsby-plugin-sharp": "^2.10.1",
+    "gatsby-plugin-sitemap": "^2.8.0",
+    "gatsby-source-filesystem": "^2.7.0",
+    "gatsby-source-wordpress-experimental": "^5.0.0",
+    "gatsby-transformer-sharp": "^2.8.0",
+    "headroom": "^0.2.0",
+    "node-sass": "^5.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-headroom": "^3.1.0",
+    "react-helmet": "^6.1.0"
+  }
+}
